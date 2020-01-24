@@ -4,9 +4,9 @@
     "size": 2,
     "health": 9999,
     "range": 99999,
-    "speedBoost": 99999,
-    "phaseRangeBoost": 9999,
-    "speedBoostPhase": 99999,
+    "speedBoost": 99,
+    "phaseRangeBoost": 2,
+    "speedBoostPhase": 2,
     "category": "effect",
     "requirements": [
         {"item": "copper", "amount": 1},
